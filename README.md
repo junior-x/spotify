@@ -1,4 +1,4 @@
-## Spotify
+## 💽 Spotify
 
 ReactJs application to construct spotify interfaces with Sass styles
 
