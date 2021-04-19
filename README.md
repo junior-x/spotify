@@ -1,6 +1,10 @@
 ## Spotify
 
-ReactJs application to construct spotify interfaces.
+ReactJs application to construct spotify interfaces with Sass styles
+
+v 0.0.1
+
+![Images of UI](/src/assets/img/screen-v1.png)
 
 # Getting Started with Create React App
 
