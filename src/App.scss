@@ -3,7 +3,39 @@ $greyLight: #131313;
 $greyLighter: #282828;
 
 .App {
+  height: calc(100vh - 90px);
+  background: $greyLight;
+}
+
+.navBar{
+  width: 240px;
+  height: 100%;
+  background: $greyDark;
+  .logo {
+    padding: 1.5rem 1.5rem;
+    svg{
+      max-width: 130px;
+      p{
+        fill: white
+      }  
+    }
+  }
+}
+
+.outerWrap {
+  background: grey;
+  height: 100vh;
+  min-height: 100%;
+}
+
+.musicControls  {
+  background: $greyLighter;
   text-align: center;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }
 
 .App-logo {
