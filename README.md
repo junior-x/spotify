@@ -4,6 +4,8 @@ ReactJs application to construct spotify interfaces with Sass styles
 
 v 0.0.1
 
+*Creating the basics blocks for the styles components.*
+
 ![Images of UI](/src/assets/img/screen-v1.png)
 
 # Getting Started with Create React App
